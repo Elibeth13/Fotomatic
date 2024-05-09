@@ -145,7 +145,7 @@ header .mobile ul {
 
 #sign-up-section {
   display: flex;
-  background-image: url(../fotomatic_resources/images/banner-landingpage.jpg);
+  background-image: url(../images/banner-landingpage.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 42rem;
